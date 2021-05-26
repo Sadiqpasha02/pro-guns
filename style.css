@@ -1,0 +1,66 @@
+
+h1 {
+    color: yellow;
+    padding-left:30px;
+}
+
+
+
+.header *{
+
+   /* border:solid;*/
+    color: rgb(6, 139, 248);
+
+
+
+}
+.header{
+    background-color: rgb(7, 255, 152);
+    display: flex;
+    justify-content:space-evenly;
+}
+a:link{
+
+    color:rgb(219, 24, 24);
+
+}
+a{
+    color: rgb(50, 238, 150);
+}
+.page1{
+    color:yellow;
+    background-color:yellow;
+}
+
+.page2{
+    color:yellow;
+    background-color:yellow;
+}
+
+.page3{
+    color:yellow;
+    background-color:yellow;
+}
+.page4{
+    color:yellow;
+    background-color:yellow;
+}
+
+.page5{
+    color:yellow;
+    background-color:yellow;
+}
+
+.page6{
+    color:yellow;
+    background-color:yellow;
+}
+.main{
+    display:flex;
+    background-image: url(background.jpg);
+   height: 100%;
+    width:100%;
+    justify-content: center;
+
+}
+
